@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeeB01
-- 👀 I’m interested in Python, music and play drums ...
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in C#, music and play drums ...
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on many projects as possible
 - 📫 How to reach me | Discord : GeeB#6987 instagram: @gabriel.geeb
 
